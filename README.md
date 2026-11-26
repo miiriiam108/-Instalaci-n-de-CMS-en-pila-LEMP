@@ -176,7 +176,9 @@ Voy a eliminar los informes temporales de WPScan si no se desean en el repositor
 El commit se realiza correctamente y el repositorio remoto queda actualizado sin exponer `.env`.
 
 
+## Screencast
 
+[Ver screencast del despliegue LEMP y WordPress](URL_DE_TU_SCREENCAST)
 
 
 
