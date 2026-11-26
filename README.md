@@ -178,7 +178,8 @@ El commit se realiza correctamente y el repositorio remoto queda actualizado sin
 
 ## Screencast
 
-[Ver screencast del despliegue LEMP y WordPress](URL_DE_TU_SCREENCAST)
+[Ver screencast](screencast/screencast.mp4)
+
 
 
 
