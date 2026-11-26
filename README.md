@@ -1,7 +1,6 @@
 # -Instalaci-n-de-CMS-en-pila-LEMP
 
 ## índice
-## índice
 
 - [Introducción](#introducción)
 - [Paso 1: Preparación del proyecto y control de versiones](#paso-1-preparación-del-proyecto-y-control-de-versiones)
